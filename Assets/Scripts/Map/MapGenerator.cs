@@ -1,8 +1,7 @@
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class MapGenerator : MonoBehaviour
 {
-    // moving on cell (x, y)
 
     // Start is called before the first frame update
     void Start()
@@ -16,8 +15,4 @@ public class Player : MonoBehaviour
 
     }
 
-    public void Move()
-    {
-        //realization
-    }
 }

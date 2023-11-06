@@ -72,7 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /ProjectSettings/ProjectVersion.txt
-/Packages/*
 /Packages/packages-lock.json
 /Packages/manifest.json
 /ProjectSettings/boot.config
